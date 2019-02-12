@@ -1,0 +1,22 @@
+alias cls="clear"
+
+##Kubernetes
+alias k="kubectl"
+alias kv="kubectl version"
+alias kcn="kubectl get nodes"
+alias kcp="kubectl get pods"
+alias kgns="kubectl get namespaces"
+alias kcv="kubectl config view"
+alias kcc="kubectl config current-context"
+alias kcu="kubectl config use-context"
+
+##gcloud
+alias gc="gcloud"
+alias gali="gcloud auth list"
+alias galo="gcloud auth login"
+alias gcl="gcloud config list"
+
+##set profile
+alias sb=". ~/.bash_profile"
+alias vb=". ~/.bash_profile"
+
